@@ -23,6 +23,8 @@ Quite simply, the population doubling time is the time it takes for the populati
 - *Death Rate* - The number of people who die per 1000 of the population per year.
 - *Natural Change* - The change in the size of a population caused by the interrelationship between birth and death rates. If the birth rate exceeds the death rate then the population will increase. If the death rate exceeds the birth rate then the population will decrease.
 - *Annual Population Change* - The cumulative change to the size of a population after both natural change and migration have been accounted for.
+- *Population Density* - The number of living people per square km.
+- *Fertility Rate* - The number of children born per woman during her reproductive lifetime (UK is at 1.90)
 
 ### Calculating Population Change
 
